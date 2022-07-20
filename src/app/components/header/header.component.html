@@ -1,1 +1,9 @@
-<h1>{{title}}</h1>
+<header>
+    <h1>{{title}}</h1>
+    <app-button 
+        color="green" 
+        text="Añadir Tarea"
+        (btnClick)="toggleAddTask()"
+        >
+    </app-button>
+</header>
