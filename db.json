@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Hacer las compras",
+      "day": "mañana a las 10:00 am",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Asistir al cumple de Luciano",
+      "day": "Sabado 06/07 a las 18:30",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
